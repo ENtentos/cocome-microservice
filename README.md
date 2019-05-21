@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RESTful Microservices for CoCoME
 ================================
 
@@ -86,3 +87,6 @@ cd products/products-service & mvn -s settings.xml install
 cd orders/orders-service     & mvn -s settings.xml install
 cd reports/reports-service   & mvn -s settings.xml install
 ```
+=======
+# cocome-microservice
+>>>>>>> 390255ddbcebe771c3e9bb71215bbf52ea5c939c
